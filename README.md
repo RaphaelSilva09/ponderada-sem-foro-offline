@@ -65,3 +65,25 @@ void loop() {
 ## Demonstração 
 
 A demonstração do que foi desenvolvido pode ser encontrado clicando [aqui](https://drive.google.com/file/d/1R6fNhjaWUe9-JgDpSo27Bh1pDEa96MBs/view?usp=sharing)
+
+## Tabela de Avaliação entre Pares
+
+### Avaliador: Raphael Felipe da Silva
+
+|Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
+|-|-|-|-|-|
+|Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores	|Até 3	|Até 1,5	|0 | Comtempla |	
+|Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo	|Até 3	|Até 1,5	|0 |Comtempla |	
+|Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) |	Até 3|	Até 1,5 |	0 | Comtempla |	
+|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código |	Até 1 |	Até 0,5 |	0 | Contempla |	
+| | | | |Pontuação Total: 10|
+
+### Avaliador: Igor Sampaio Silva
+
+|Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
+|-|-|-|-|-|
+|Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores	|Até 3	|Até 1,5	|0 | Comtempla |	
+|Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo	|Até 3	|Até 1,5	|0 |Comtempla |	
+|Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) |	Até 3|	Até 1,5 |	0 | Comtempla |	
+|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código |	Até 1 |	Até 0,5 |	0 | Contempla |	
+| | | | |Pontuação Total: 10|
